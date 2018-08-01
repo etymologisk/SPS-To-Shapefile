@@ -14,7 +14,7 @@ sps_files = glob.glob("SPS_UTC/*.s01")
 rps_files = glob.glob("R Preplots/*.r01")
 
 
-#Set column widths for SPS
+#Set column widths
 colspecs=[[0,9], [14,21], [23,27], [31,34], [37,38], [41,46], [47,55],[55,65], [68,71], [71,87]]
 names=['Line Number', 'Shot Number', 'Attempt', 'Gun Depth', 'Num', 'Depth', 'Easting', 'Northing', 'Geodetic Height', 'Time']
 

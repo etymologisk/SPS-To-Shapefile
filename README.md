@@ -1,2 +1,2 @@
-# SPS-To-Shapefile
-Convert SPS files to shapefiles using pandas and geopandas libraries. 
+# Text-To-Shapefile
+Convert text files to shapefiles using pandas and geopandas libraries. 

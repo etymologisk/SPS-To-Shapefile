@@ -10,8 +10,8 @@ from shapely.geometry import LineString
 
 print(time.asctime())
 #Grab filenames
-sps_files = glob.glob("SPS_UTC/*.s01")
-rps_files = glob.glob("R Preplots/*.r01")
+sps_files = glob.glob("S_inputs/*.s01")
+rps_files = glob.glob("R_inputs/*.r01")
 
 
 #Set column widths
